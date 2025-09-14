@@ -23,18 +23,7 @@ It provides **e-learning, assignments, feedback, and dashboards** in a single pl
 
 ---
 
-## 📸 Screenshots / Demo
 
-### Home Page
-
-
-### Student Dashboard
-
-### Study Material Page
-
-### Feedback / Complaint Page
-
----
 
 ## 🚀 Live Demo & Quick Links
 
