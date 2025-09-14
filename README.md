@@ -26,16 +26,13 @@ It provides **e-learning, assignments, feedback, and dashboards** in a single pl
 ## 📸 Screenshots / Demo
 
 ### Home Page
-![Home](https://via.placeholder.com/800x400.png?text=Home+Page)
+
 
 ### Student Dashboard
-![Dashboard](https://via.placeholder.com/800x400.png?text=Student+Dashboard)
 
 ### Study Material Page
-![Study Material](https://via.placeholder.com/800x400.png?text=Study+Material)
 
 ### Feedback / Complaint Page
-![Feedback](https://via.placeholder.com/800x400.png?text=Feedback+Page)
 
 ---
 
