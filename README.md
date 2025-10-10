@@ -34,7 +34,7 @@ It provides **e-learning, assignments, feedback, and dashboards** in a single pl
 | 👨‍🎓 Student Login | [Login Page](http://localhost:8080/eGyan-Portal/login.jsp) |
 | 🏫 Study Center Login | [Login Page](http://localhost:8080/eGyan-Portal/login.jsp) |
 
----
+---------
 
 ## 🛠 Technology Stack
 
