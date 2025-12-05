@@ -18,7 +18,7 @@ It provides **e-learning, assignments, feedback, and dashboards** in a single pl
 - 📝 **Assignments & Assessments:** Online quizzes, self-assessment tools, and performance tracking.
 - 💬 **Feedback & Complaints:** Students can submit feedback and complaints online.
 - 📊 **Student Dashboard:** Track courses, attendance, and academic progress.
-- 🖼 **Gallery:** View campus events and student activities.
+- 🖼 **Gallery:** View campus events and student activities
 - 📱 **Responsive Design:** Mobile, tablet, and desktop-friendly UI using Bootstrap 5.
 
 ------
