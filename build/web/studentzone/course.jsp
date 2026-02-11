@@ -3,7 +3,7 @@
 
 <!--Student zone
 Course
------------------------------------------------------------------------------------>
+--------------------------------------------------------------------------------------------->
 <!DOCTYPE html>
 <html>
     <head>
@@ -13,8 +13,7 @@ Course
     <body>
         <div class="container-fluid">
             <%@include file="studentheadermaster.jsp" %>
-
-             <div class="row">
+            <div class="row">
                 <div class="col-sm-4 me-5 "></div>
                 <div class="col-sm-3  mt-3 mb-4 text-center   rounded">
                     <h4> <b>COURSE <span class="text-danger">LIST</span></b></h4>
