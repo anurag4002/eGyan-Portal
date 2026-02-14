@@ -9,7 +9,7 @@
 **eGyan Portal** is a full-fledged **online college portal** designed for students, admins, and study centers.  
 It provides **e-learning, assignments, feedback, and dashboards** in a single platform.
 
-----------------
+-----------------------------
 
 ## 🌟 Features
 
@@ -21,7 +21,7 @@ It provides **e-learning, assignments, feedback, and dashboards** in a single pl
 - 🖼 **Gallery:** View campus events and student activities
 - 📱 **Responsive Design:** Mobile, tablet, and desktop-friendly UI using Bootstrap 5.
 
-------
+-----------------------------
 
 
 ## 🚀 Live Demo & Quick Links
