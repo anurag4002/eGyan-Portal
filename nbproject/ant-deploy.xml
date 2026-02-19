@@ -9,6 +9,7 @@
         <xmlproperty file="${temp.module.folder}/META-INF/context.xml"/>
         <delete dir="${temp.module.folder}"/>
     </target>
+    
     <target name="-check-credentials" if="deploy.ant.enabled" depends="-init">
         <fail message="Tomcat password has to be passed as tomcat.password property.">
             <condition>
@@ -18,6 +19,7 @@
             </condition>
         </fail>    
     </target>
+    
     <target name="-deploy-ant" if="deploy.ant.enabled" depends="-init,-check-credentials">
         <echo message="Deploying ${deploy.ant.archive} to ${Context(path)}"/>
         <taskdef name="deploy" classname="org.apache.catalina.ant.DeployTask"
